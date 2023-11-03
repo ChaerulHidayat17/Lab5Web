@@ -1,5 +1,12 @@
-# Lab5Web
+# Pratikum4 - HTML - CSS - jAVA SCRIPT
 
+===========================================================================<br>
+<p align="center">
+ &#128640 <b>NAMA          :  CHAERUL HIDAYAT</b>&#128640 <br> 
+  &#128640<b>NIM           :  312210300</b>&#128640 <br>
+ &#128640<b>Mata Kuliah   :  Pemrograman Web</b>&#128640 <br>
+</p>
+===========================================================================<br><br>
 # 1. Kita membuat h1, h3 dan document write yang hasil nya ada di layar dan ada di console.log <br>
 Ini adalah kode nya <br>
 ![Alt text](lab5_javascript/README/foto1.png) <br>
@@ -62,6 +69,11 @@ Ini adalah hasil nya <br>
 Ini adalah hasil nya <br>
 ![Alt text](<lab5_javascript/README/hasil validasi.png>) <br>
 
+===========================================================================<br>
+<p align="center">
+ &#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br>
 
 
 
