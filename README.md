@@ -8,3 +8,9 @@ Ini adalah hasil nya document write <br>
 Ini adalah hasil nya console.log <br>
 ![Alt text](lab5_javascript/README/hasil2.png) <br><br>
 
+# 2. Membuat Window Alert <br>
+Ini adalah kode nya <br>
+![Alt text](<lab5_javascript/README/alert code.png>)<br>
+Ini hasil tampilan nya <br>
+![Alt text](lab5_javascript/README/hasil3.png)<br><br>
+
